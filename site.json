@@ -1,0 +1,23 @@
+{
+  "title": "Histology",
+  "subtitle": "Course decks &middot; Dr Fernando P. Bruno",
+  "lectures": [
+    {
+      "name": "HL1 — Methods and Techniques in Histology and Pathology",
+      "note": "71 slides",
+      "decks": [
+        {
+          "kind": "learn",
+          "href": "hl1-flashcards.html",
+          "label": "Flashcards",
+          "desc": "71 cards that build the lecture up in order — tissue preparation, staining, microscopy, and the methods for locating a specific molecule.",
+          "bullets": [
+            "Frameworks first, then detail, then comparison tables",
+            "Every slide figure, plus diagrams for what the slides only describe",
+            "All seven in-lecture quiz questions, with the distractors explained"
+          ]
+        }
+      ]
+    }
+  ]
+}
