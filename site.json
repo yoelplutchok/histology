@@ -3,6 +3,23 @@
   "subtitle": "Course decks · Dr Fernando P. Bruno",
   "lectures": [
     {
+      "name": "Foundations Exam 1 — Junqueira Ch 1–4",
+      "note": "132 cards",
+      "decks": [
+        {
+          "kind": "recognize",
+          "href": "micrograph-atlas.html",
+          "label": "Micrograph Atlas",
+          "desc": "Every micrograph from Junqueira Ch 1–4 split panel by panel — bold cues to think first, small print for the labels, plus the high-yield textbook diagrams.",
+          "bullets": [
+            "Star ratings from the Harry Qi guide + lecture slides",
+            "\"This always goes with that\" associations under the pictures",
+            "Association bank dropdown at the bottom"
+          ]
+        }
+      ]
+    },
+    {
       "name": "HL1 — Methods and Techniques in Histology and Pathology",
       "note": "71 slides",
       "decks": [
