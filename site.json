@@ -4,8 +4,19 @@
   "lectures": [
     {
       "name": "Foundations Exam 1 — Junqueira Ch 1–4",
-      "note": "132 cards",
+      "note": "Aug 17",
       "decks": [
+        {
+          "kind": "everything",
+          "href": "master-atlas.html",
+          "label": "Master Atlas",
+          "desc": "The full Micrograph Atlas plus every Foundations 1 fact from the Harry Qi guide merged in as HQ NOTES cards, with his errors corrected and flagged. 142 cards.",
+          "bullets": [
+            "Quiz mode: hide the answers, click a card to reveal",
+            "Barr bodies, apoptosis pathway, stem-cell potency, and more text facts in place",
+            "⚠ Fixed lines where the Harry Qi sheet is wrong"
+          ]
+        },
         {
           "kind": "recognize",
           "href": "micrograph-atlas.html",
